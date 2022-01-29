@@ -1,0 +1,5 @@
+favorite_movie_eat,pray,love
+favorite_TV_series_magniflcent_centuri
+favorite_food_sushi
+favorite_time_of_year_summer
+country_Italy
