@@ -1,0 +1,4 @@
+name Olga
+surname Ignateva
+age 42
+one dog
