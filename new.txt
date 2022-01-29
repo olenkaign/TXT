@@ -2,3 +2,5 @@ name Olga
 surname Ignateva
 age 42
 one dog
+300 000 rubles per month
+
