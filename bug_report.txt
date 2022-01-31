@@ -1,13 +1,13 @@
-СООБЩЕНИЕ ОБ ОШИБКЕ
+BUG-REPORT
 
-Идентификатор: 1
-Название: КОРЗИНА - Не удается добавить новый товар в корзину
-Среда: MacBook Air 2018, macOS Big Sur, браузер Яндекс
-Шаги по воспроизведению:
- 1. Перейдите на страницу продукта
- 2. Нажмите, чтобы "Добавить в корзину".
- 3. Перейдите в корзину
-Приоритет: Высокий
-Степень тяжести: Критическая
-Ожидаемый результат: В корзине содержится 1 товар
-Фактический результат: Корзина содержит 0 товаров
+ID: 1
+Title: CART - Unable to add new item to a cart
+Environment: MacBook Air 2018, MacOS Big Sur, Yandex Browser
+Steps to reproduce:
+ 1. Go to product page
+ 2. Press to 'Add to cart button
+ 3. Go to cart
+Priority: High
+Severity: Critical
+Expected Result: The cart containes 1 item
+Actual Result: The cart containes 0 items
